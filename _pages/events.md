@@ -29,6 +29,16 @@ Our intensive three-week bootcamp provides high school students with immersive t
 
 ---
 
+### Placeholder
+**Date:** TBD 
+**Location:** TBD 
+**Application Deadline:** TBD
+
+This is a placeholder event, waiting till NGO to provide content
+
+**Apply now:** [Application Form](https://forms.gle/placeHolder)
+
+---
 ## Past Events
 
 Check out our [Past Events Archive](/pastEvents/) for a complete history of our workshops, bootcamps, and webinars.
