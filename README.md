@@ -87,14 +87,9 @@ Site-wide settings are controlled in `_config.yml`. Here you can change:
 - Social media links
 - Theme settings and appearance
 
-## Contributing
+## Youtube Demo Link
 
-If you'd like to contribute to this website, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your changes
-3. Make your changes and test them
-4. Submit a pull request with a clear description of your changes
+[Demo Link](https://www.youtube.com/watch?v=1L509JK8p1I)
 
 ## License
 
