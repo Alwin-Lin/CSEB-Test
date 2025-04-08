@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url : /
+  - title: "Past Events"
+    url: /pastEvents/
+  - title: "About Us"
+    url: /about-us/
