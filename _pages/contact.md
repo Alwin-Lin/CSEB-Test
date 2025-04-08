@@ -1,0 +1,72 @@
+---
+permalink: /contact/
+title: "Contact Us"
+layout: single
+author_profile: true
+---
+
+# Get in Touch
+
+We'd love to hear from you! Whether you're interested in our programs, want to volunteer, or are looking to partner with us, there are several ways to connect with CS Equity AI Charter.
+
+## General Inquiries
+
+**Email:** CSEquityAI@gmail.com
+
+**Response Time:** We strive to respond to all inquiries within 2 business days.
+
+---
+
+## For Students & Parents
+
+Interested in participating in our programs? Have questions about upcoming opportunities? Reach out to us via email with the subject line "Student Inquiry" or use our student interest form.
+
+[Student Interest Form](#)
+
+---
+
+## For Educators & Schools
+
+If you're an educator or school administrator interested in bringing our programs to your students, we'd be happy to discuss potential collaborations.
+
+[School Partnership Form](#)
+
+---
+
+## For Tech Professionals & Volunteers
+
+We're always looking for passionate tech professionals to volunteer as mentors, guest speakers, or curriculum developers. Share your expertise and make an impact on the next generation of tech leaders.
+
+[Volunteer Interest Form](#)
+
+---
+
+## For Non-Profits
+
+Are you a non-profit organization looking for technology support? Our students work on real-world projects including website development, data analysis, and more. Contact us to discuss how we might be able to support your mission.
+
+[Project Request Form](#)
+
+---
+
+## Social Media
+
+Connect with us on social media to stay updated on our latest programs, events, and success stories:
+
+- [LinkedIn](#)
+- [GitHub](#)
+- [Twitter](#)
+
+---
+
+## Location
+
+While many of our programs are offered virtually to reach students globally, we are based in the San Francisco Bay Area and offer some in-person programs in this region.
+
+---
+
+## Subscribe to Our Newsletter
+
+Stay informed about upcoming programs, events, and opportunities by subscribing to our monthly newsletter.
+
+[Subscribe Now](#)
