@@ -53,4 +53,6 @@ Are you a non-profit organization looking for technology support? Our students w
 
 While many of our programs are offered virtually to reach students globally, we are based in the San Francisco Bay Area and offer some in-person programs in this region.
 
+---
+Confirmed: The pages render correctly with the Minimal Mistakes theme, displaying the expected placeholder content, including the 'Welcome to Jekyll!' post, default navigation, and standard footer.
 
