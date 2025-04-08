@@ -38,3 +38,6 @@ Check out our [Past Events Archive](/pastEvents/) for a complete history of our 
 ## Interested in Hosting an Event?
 
 If you're a school, community organization, or tech company interested in partnering with us to host an event, please [contact us](/contact/) to discuss potential collaboration opportunities.
+
+---
+Confirmed: The pages render correctly with the Minimal Mistakes theme, displaying the expected placeholder content, including the 'Welcome to Jekyll!' post, default navigation, and standard footer.
