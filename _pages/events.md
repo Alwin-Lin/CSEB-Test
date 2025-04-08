@@ -14,7 +14,7 @@ author_profile: true
 
 Join us for an interactive workshop where students will learn the fundamentals of artificial intelligence and machine learning. This hands-on session will introduce concepts through practical exercises using accessible online tools.
 
-**Registration:** [Sign up here](#)
+**Registration:** [Sign up here](https://forms.gle/A6VVgumhcsuuDCSH7)
 
 ---
 
@@ -25,7 +25,7 @@ Join us for an interactive workshop where students will learn the fundamentals o
 
 Our intensive three-week bootcamp provides high school students with immersive training in programming, cloud computing, and AI. Students will work directly with tech professionals while developing projects that address real-world problems.
 
-**Apply now:** [Application Form](#)
+**Apply now:** [Application Form](https://forms.gle/A6VVgumhcsuu25sa7)
 
 ---
 
