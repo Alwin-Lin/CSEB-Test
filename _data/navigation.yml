@@ -1,7 +1,15 @@
 main:
   - title: "Home"
     url : /
+  - title: "Events"
+    url: /events/
+  - title: "Educational Programs"
+    url: /educational-programs/
   - title: "Past Events"
     url: /pastEvents/
+  - title: "Team Members"
+    url: /team-members/
   - title: "About Us"
     url: /about-us/
+  - title: "Contact"
+    url: /contact/
